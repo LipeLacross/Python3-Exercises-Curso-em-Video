@@ -7,6 +7,7 @@ Link da playlist: [Curso em Vídeo - Python](https://www.youtube.com/playlist?li
 ## 🔨 Funcionalidades do Projeto
 
 Este projeto contém a resolução de uma série de exercícios de Python que abordam temas como tuplas, listas, dicionários, funções, módulos, e manipulação de dados. Os exercícios estão organizados por aulas, seguindo a sequência de aprendizado proposta no curso.
+![Screenshot 2024-08-17 105522](https://github.com/user-attachments/assets/353c558b-c74f-414b-827d-12dbd284790e)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
