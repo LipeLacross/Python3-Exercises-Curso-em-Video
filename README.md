@@ -1,3 +1,4 @@
+## 🌐 [English Version of README](README_EN.md)
 
 # Lista de Exercícios de Python - Curso em Vídeo
 
